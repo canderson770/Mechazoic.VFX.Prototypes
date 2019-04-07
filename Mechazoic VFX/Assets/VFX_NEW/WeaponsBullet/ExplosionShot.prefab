@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 82704696724122120}
   - component: {fileID: 114662112219955464}
   m_Layer: 0
-  m_Name: OLD-DefaultBlue
+  m_Name: ExplosionShot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
